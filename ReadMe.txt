@@ -1,3 +1,10 @@
+Note:-############# This code has been pulled from others github repo #####################################
+
+I have personally tested it and it just works.You can also use it to activate your VMs (if you play with it)
+
+
+
+
 W10 Digital License Activation Script
 All the files are 100% clean on virus total.
 
