@@ -2,8 +2,16 @@ Note:-############# This code has been pulled from others github repo ##########
 
 I have personally tested it and it just works.You can also use it to activate your VMs (if you play with it)
 
+I tried on 04 Jan 2020 check the PROOF.jpeg
 
 
+
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 W10 Digital License Activation Script
 All the files are 100% clean on virus total.
@@ -64,16 +72,10 @@ Enterprise (N)
 EnterpriseS (LTSB) 
 EnterpriseS (LTSB) (N)
 
-(This activator does not support Windows 10 1507 version)
-===========================================================
+
 Credits:
 
 s1ave77       - Original Author of Digital License Generation without KMS or predecessor install/upgrade
 mephistooo2   - Repacking s1ave77's cmd version
 WindowsAddict - Making clean and improved version of mephistooo2's Repack
 
-===========================================================
-Homepage : (For Questions, suggestions, problems and criticism etc)
-https://www.nsaneforums.com/topic/316668-w10-digital-license-activation-script/
-
-===========================================================
